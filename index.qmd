@@ -101,22 +101,22 @@ Introdução à estatística. Estatística Descritiva. Noções de Probabilidade
 ## Formas e critérios de avaliações
 
 ::: {style="text-align: justify; font-size:36px;"}
-Serão realizadas duas avaliações (A) com peso 2 e listas de exercícios (E=médias das notas das listas) com peso 1,  sendo a média final da disciplina calculada por meio da média ponderada.
+Serão realizadas duas avaliações (A) com o mesmo peso,  sendo a média final da disciplina calculada por meio da média aritmética.
 :::
 
 $$
-Média=\frac{2\times A_1+2\times A_2+E}{5}
+Média=\frac{A_1+A_2}{2}
 $$
 
 **Data das avaliações**
 
-+:---------------:+:---------------------:+:---------------------:+:---------------------:+
-| Turma           | Prova 1               | Prova 2               | Exame                 |
-+-----------------+-----------------------+-----------------------+-----------------------+
-| 1000            | 21/05/2025 26/05/2025 | 16/07/2025 21/07/2025 | 30/07/2025 28/07/2025 |
-|                 |                       |                       |                       |
-| 2000            |                       |                       |                       |
-+-----------------+-----------------------+-----------------------+-----------------------+
++:-----:+:---------------------:+:---------------------:+:---------------------:+
+| Turma | Prova 1               | Prova 2               | Exame                 |
++-------+-----------------------+-----------------------+-----------------------+
+| 1000  | 22/04/2026 27/04/2026 | 24/06/2026 29/06/2026 | 16/07/2026 16/07/2026 |
+|       |                       |                       |                       |
+| 2000  |                       |                       |                       |
++-------+-----------------------+-----------------------+-----------------------+
 
 ## Bibliografia
 
