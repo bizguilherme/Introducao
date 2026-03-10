@@ -452,7 +452,7 @@ Quando se dispõe de variáveis qualitativas, utiliza-se a seguinte formula: $$ 
 ### Determinação do tamanho amostral para variáveis quantitativas
 
 ::: {style="font-size: 34px;"}
-Quando se dispoe de variáveis quantitativas, utiliza-se a seguinte formula: $$ n_0=\frac{z^2\sigma^2}{\epsilon^2},$$ para população infinita, em que $\sigma^2$= valores obtidos em trabalhos anteriores.
+Quando se dispõe de variáveis quantitativas, utiliza-se a seguinte fórmula: $$ n_0=\frac{z^2\sigma^2}{\epsilon^2},$$ para população infinita, em que $\sigma^2$ representa a variância da variável de interesse, obtida em estudos anteriores.
 
 **OBS**:Em ambos os casos, se a população é finita deve-se utilizar também a equação: $$n=\frac{n_0}{1+\frac{n_0}{N}}.$$
 :::
